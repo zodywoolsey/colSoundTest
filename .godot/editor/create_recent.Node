@@ -1,0 +1,6 @@
+AudioStreamPlayer3D
+Camera3D
+MeshInstance3D
+CSGBox3D
+CollisionShape3D
+RigidBody3D
